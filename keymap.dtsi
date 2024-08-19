@@ -1,6 +1,6 @@
 // NOTE: Use the many #define settings below to customize this keymap!
-#define OPERATING_SYSTEM 'L' // choose 'L'inux, 'M'acOS, or 'W'indows
-#define DIFFICULTY_LEVEL  0  // 0:custom, 1:easy -> 5:hard (see below)
+#define OPERATING_SYSTEM 'W' // choose 'L'inux, 'M'acOS, or 'W'indows
+#define DIFFICULTY_LEVEL  4  // 0:custom, 1:easy -> 5:hard (see below)
 #define ENFORCE_BILATERAL    // cancels single-handed home row mod+tap
 #define WORLD_USE_COMPOSE    // use native Compose in place of Unicode
 // TIP: Add more setting overrides here instead of editing them below.
