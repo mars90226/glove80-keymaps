@@ -2,6 +2,10 @@
 
 Only record what changed in the Mars' version.
 
+## 1.13
+
+- Add sticky `LCTL` & sticky `LALT` using to lower layer using `&sticky_key_oneshot`
+
 ## 1.12
 
 - Restore `LSHIFT` to traditional `LSHIFT` instead of one-shot sticky shift
