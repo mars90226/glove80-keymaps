@@ -2,6 +2,15 @@
 
 Only record what changed in the Mars' version.
 
+## 1.12
+
+- Restore `LSHIFT` to traditional `LSHIFT` instead of one-shot sticky shift
+- Restore `T6` to one-shot shift + lower layer
+
+## 1.11
+
+- Set `DIFFICULTY_LEVEL` to `4`
+
 ## 1.10
 
 - Upgrade to Glorious Engrammer v37
