@@ -2,6 +2,11 @@
 
 Only record what changed in the Mars' version.
 
+## 1.14
+
+- Set `DIFFICULTY_LEVEL` to `5` due to v37 increase the holding time for difficulty level 4 to
+    150 ms.
+
 ## 1.13
 
 - Add sticky `LCTL` & sticky `LALT` using to lower layer using `&sticky_key_oneshot`
