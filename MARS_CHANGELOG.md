@@ -2,10 +2,14 @@
 
 Only record what changed in the Mars' version.
 
+## 1.15
+
+- Set `DIFFICULTY_LEVEL` to `0`, this difficulty should be between 4 and 5.
+
 ## 1.14
 
 - Set `DIFFICULTY_LEVEL` to `5` due to v37 increase the holding time for difficulty level 4 to
-    150 ms.
+    250 ms.
 
 ## 1.13
 
