@@ -2,6 +2,11 @@
 
 Only record what changed in the Mars' version.
 
+## 1.16
+
+- Raise mouse move/scroll speed by 1.5 times.
+- Use `keymap.dtsi.erb` to generate the config.
+
 ## 1.15
 
 - Set `DIFFICULTY_LEVEL` to `0`, this difficulty should be between 4 and 5.
